@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.4f14ca7b.js",
+    "main.js": "/static/js/main.ab0ce16b.js",
     "static/js/787.e3ee5c50.chunk.js": "/static/js/787.e3ee5c50.chunk.js",
     "static/media/bus-stop.png": "/static/media/bus-stop.241150dc0c36600545dd.png",
     "static/media/arceus.jpg": "/static/media/arceus.f02bd3644b7dd3564ee0.jpg",
     "static/media/fortnite.jpeg": "/static/media/fortnite.1d4cb33e4c8c3263aa86.jpeg",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.4f14ca7b.js.map": "/static/js/main.4f14ca7b.js.map",
+    "main.ab0ce16b.js.map": "/static/js/main.ab0ce16b.js.map",
     "787.e3ee5c50.chunk.js.map": "/static/js/787.e3ee5c50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.4f14ca7b.js"
+    "static/js/main.ab0ce16b.js"
   ]
 }
